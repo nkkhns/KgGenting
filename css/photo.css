@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+
+}
+
+.title{
+	display: flex;
+	flex-direction: column;
+	background-color: rgba(33, 19, 116, 0.788);
+	color: white;
+	align-items: center;
+	padding: 20px;
+}
+
+.me{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	box-sizing: border-box;
+}
+
+
+.me img{
+	width: 360px;
+	height: 260px;
+	margin: 20px;
+}
+
+
+
